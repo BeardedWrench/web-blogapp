@@ -1,4 +1,4 @@
-#Blogging Platform
+# MERN Blogging Platform
 
 
-##MERN
+## Getting Started
